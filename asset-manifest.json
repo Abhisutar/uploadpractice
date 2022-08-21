@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uploadpractice/static/css/main.073c9b0a.css",
+    "main.js": "/uploadpractice/static/js/main.0e8e4e7b.js",
+    "static/js/787.780833c0.chunk.js": "/uploadpractice/static/js/787.780833c0.chunk.js",
+    "index.html": "/uploadpractice/index.html",
+    "main.073c9b0a.css.map": "/uploadpractice/static/css/main.073c9b0a.css.map",
+    "main.0e8e4e7b.js.map": "/uploadpractice/static/js/main.0e8e4e7b.js.map",
+    "787.780833c0.chunk.js.map": "/uploadpractice/static/js/787.780833c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e8e4e7b.js"
+  ]
+}
